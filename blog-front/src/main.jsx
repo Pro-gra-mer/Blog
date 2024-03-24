@@ -10,7 +10,7 @@ import App from "./App.jsx";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBsk_PfPSAPPWPmSOsbe0cNuz1vrK5SIUY",
+  apiKey: "",
   authDomain: "curso-react-auth-53a84.firebaseapp.com",
   projectId: "curso-react-auth-53a84",
   storageBucket: "curso-react-auth-53a84.appspot.com",
